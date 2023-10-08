@@ -19,6 +19,6 @@
 	"styles": [],
 	"languages": [],
 	"url": "https://github.com/Muttley/foundryvtt-six-feet-under",
-	"manifest": "https://raw.githubusercontent.com/Muttley/foundryvtt-six-feet-under/master/module/module.json",
+	"manifest": "https://raw.githubusercontent.com/Muttley/foundryvtt-six-feet-under/main/module/module.json",
 	"download": "https://github.com/Muttley/foundryvtt-six-feet-under/releases/download/release-1.0.0/six-feet-under-release-1.0.0.zip"
 }
