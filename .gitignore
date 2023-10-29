@@ -1,0 +1,7 @@
+# IDE
+.vscode/launch.json
+*.code-workspace
+*.swp
+
+# Git Merge artifacts
+**/*.orig
