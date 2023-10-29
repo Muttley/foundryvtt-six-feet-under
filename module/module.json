@@ -1,8 +1,8 @@
 {
     "id": "six-feet-under",
     "title": "Six Feet Under",
-    "version": "1.0.0",
-    "description": "Bury your dead!  When a token is toggled as dead, its eleveation is set to -6ft",
+    "version": "1.0.1",
+    "description": "Bury your dead!  When a token is toggled as dead, its elevation is set to -6ft",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -20,5 +20,5 @@
 	"languages": [],
 	"url": "https://github.com/Muttley/foundryvtt-six-feet-under",
 	"manifest": "https://raw.githubusercontent.com/Muttley/foundryvtt-six-feet-under/main/module/module.json",
-	"download": "https://github.com/Muttley/foundryvtt-six-feet-under/releases/download/release-1.0.0/six-feet-under-release-1.0.0.zip"
+	"download": "https://github.com/Muttley/foundryvtt-six-feet-under/releases/download/release-1.0.1/six-feet-under-release-1.0.1.zip"
 }
