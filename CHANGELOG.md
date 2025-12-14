@@ -1,3 +1,10 @@
+## v1.2.0
+
+### Chores
+* [#6] Verify with FoundryVTT v13
+
+---
+
 ## v1.1.0
 
 ### Chores
